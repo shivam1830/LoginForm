@@ -38,8 +38,9 @@ const Logout = () => {
 
     return(
       <Box sx={{ flexGrow: 1 }}>
-<AppBar position="static" >
-  
+<AppBar position="static" style={{
+  width=800
+}}>
   <Toolbar>
     {/* <Typography variant="h6" >
       Welcome &nbsp;
