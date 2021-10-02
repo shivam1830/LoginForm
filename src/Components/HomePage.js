@@ -118,7 +118,7 @@ function HomePage() {
     }
 
    
-    const paperStyle = { backgroundColor: '#f6f6f6', padding: '50px 50px', width: 800, margin: "20px auto" }
+    const paperStyle = { backgroundColor: '#f6f6f6', padding: '50px 50px', width: '-webkit-fill-available', margin: "20px auto"  }
 
     return (
                <>
@@ -126,7 +126,7 @@ function HomePage() {
                 <Grid align="center">
                 
                 
-        <Paper elevation={20} style={paperStyle}>
+        <Paper elevation={20} style={paperStyle} >
             {/* <Grid align="left" >
             <Link to ={'Roles'}  ><span >Go To Roles</span></Link>
             </Grid>
