@@ -36,7 +36,7 @@ const Logout = () => {
 }
 
     return(
-        <div>
+        <div fullWidth>
 <AppBar position="static" fullWidth>
   
   <Toolbar>
