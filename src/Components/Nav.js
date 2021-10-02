@@ -27,8 +27,9 @@ if (token == null) {
 const history = useHistory();
 const Logout = () => {
   localStorage.removeItem("token");
-   window.location.reload();
   history.push("/LoginForm");
+   window.location.reload();
+ 
   // <Redirect to="/LoginForm"/>
   // window.location.reload();
 
