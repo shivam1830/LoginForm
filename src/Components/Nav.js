@@ -37,7 +37,7 @@ const Logout = () => {
 
     return(
         <div>
-<AppBar position="static">
+<AppBar position="static" fullwidth>
   
   <Toolbar>
     {/* <Typography variant="h6" >
