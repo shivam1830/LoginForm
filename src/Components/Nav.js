@@ -59,7 +59,7 @@ loggedIn ? <>
   :
   <>
   <Link to="/LoginForm" style={link}>Login &nbsp;</Link>
-  <Link to="/SignUp" style={link}>Sign Up &nbsp;</Link>
+  {/* <Link to="/SignUp" style={link}>Sign Up &nbsp;</Link> */}
   <Link to="/Register" style={link}>Register&nbsp;</Link>
   <Link to="/dynamic-form" style={link}>Form &nbsp;</Link>
 
