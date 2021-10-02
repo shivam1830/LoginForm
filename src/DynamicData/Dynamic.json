@@ -1,0 +1,25 @@
+[
+    {
+        "type": "text",
+        "labelName": "Name",
+        "placeholder": "Enter your Name",
+        "validation": {
+            "isRequired": true,
+            "pattern": "^[a-zA-Z]+$",
+            "minLength": "3",
+            "maxLength": "30"
+        },
+        "modelName": "userName"
+    },
+    {
+        "type": "number",
+        "labelName": "Phone Number",
+        "placeholder": "Enter your Phone Number",
+        "validation": {
+            "isRequired": false,
+            "minLength": "10",
+            "maxLength": "10"
+        },
+        "modelName": "userPhoneNumber"
+    }
+]

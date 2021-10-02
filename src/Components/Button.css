@@ -1,0 +1,37 @@
+/* .buttonStyle {
+  
+}
+
+.buttonStyle :hover {
+    overflow: 'hidden';
+  
+}  */
+
+/* .buttonStyle :before {
+    transform: rotate(90deg);
+    color: black;
+   
+} */
+/* .buttonStyle :after {
+    transform: rotate(180deg);
+    color: green;
+   
+} */
+
+
+/* .buttonStyle :active{
+    overflow: hidden;
+} */
+
+
+/* .buttonStyle :before {
+    transform:rotate(90deg);
+    color: gold;
+    opacity: 0;
+}
+
+.buttonStyle :after {
+    transform:rotate(90deg);
+    color: gold;
+    opacity: 0;
+} */

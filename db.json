@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "name": "shivam",
+      "phone": "7355371893",
+      "address": "a",
+      "id": 1
+    },
+    {
+      "name": "shivam dubey",
+      "phone": "7355371891",
+      "address": "Delhi",
+      "id": 2
+    }
+  ]
+}
