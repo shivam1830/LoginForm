@@ -373,7 +373,7 @@ const Roles = () => {
 
 
 
-    const paperStyle = { backgroundColor: '#f6f6f6', padding: '50px 50px', width: 800, margin: "20px auto" };
+    const paperStyle = { backgroundColor: '#f6f6f6', padding: '50px 50px', width: '-webkit-fill-available', margin: "20px auto" };
 
 
 
